@@ -1,0 +1,7 @@
+{
+  "name": "лаб 5",
+  "version": "1.0.0",
+  "dependencies": {
+    "playwright": "^1.17.1"
+  }
+}
